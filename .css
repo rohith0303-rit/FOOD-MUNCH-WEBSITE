@@ -193,7 +193,7 @@
 }
 
 .payment-card-img {
-    width: 50px;
+    width: 40px;
     height: 50px;
     margin-right: 28px;
 }
@@ -216,7 +216,7 @@
 }
 
 .thanking-customers-section-img {
-    width: 270px;
+    width: 170px;
     margin-bottom: 20px;
 }
 
@@ -260,4 +260,5 @@
     padding-bottom: 14px;
     padding-right: 16px;
     padding-left: 22px;
+
 }
